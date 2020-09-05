@@ -28,3 +28,19 @@ Traduction | Forme neutre | Négative | Radical | -te
 aller | **iku** | ikanai | iki | itte
 venir | **kuru** | konai | ki | kite
 faire | **suru** | shinai | shi | shite
+
+## Verbes au passé
+
+Prendre la forme en ***te*** en changer ***e*** par ***a***.
+
+Exemple:
+
+Tabete -> tabeta
+
+## Forme négative au passé
+
+Prendre la forme négative et changer le ***i*** par ***katta***.
+
+Exemple:
+
+Tabenai -> tabenakatta
