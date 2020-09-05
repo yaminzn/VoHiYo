@@ -23,6 +23,7 @@ prendre | **toru** | toranai | tori | totte
 attendre | **matsu** | matanai | machi | matte
 
 ## Verbes irréguliers
+
 Traduction | Forme neutre | Négative | Radical | -te
 --- | --- | --- | --- | ---
 aller | **iku** | ikanai | iki | itte
@@ -44,3 +45,16 @@ Prendre la forme négative et changer le ***i*** par ***katta***.
 Exemple:
 
 Tabenai -> tabenakatta
+
+# Forme poli
+
+* Présent affirmatif: radical + ***masu***
+* Présent négatif: radical + ***masen***
+* Passé affirmatif: radical + ***mashita***
+* Passé négatif: radical + ***masen deshita***
+
+Verbe | Radical | Présent affirmatif | Présent négatif | Passé affirmatif | Passé négatif
+--- | --- | --- | --- | --- | ---
+**taberu** | tabe | tabemasu | tabemasen | tabemashita | tabemasen deshita
+**mire** | mi | mimasu | mimasen | mimashita | mimasen deshita
+
