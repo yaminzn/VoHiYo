@@ -5,6 +5,7 @@ Mot | Traduction | Remarque
 **ame** | pluie |
 **arashi** | orage |
 **atsui** | chaud |
+**basutei** | arrêt de bus | ou basute̅
 **hari** | ciel bleu |
 **kino** | hier |
 **kumori** | ciel nuageux |
