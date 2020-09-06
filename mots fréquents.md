@@ -4,8 +4,10 @@ Mot | Traduction | Remarque
 --- | --- | ---
 **kino** | hier |
 **kuruma** | voiture |
+**ne** | n'est ce pas | particule qu'on rajoute à la fin d'une phrase, atsui desu ne? (il fait chaud n'est ce pas?)
 **okane** | argent | o est un préfixe de politesse, kane est argent mais personne ne le dit
 **omiyage** | souvenir | o est un préfixe de politesse
+**tenki** | souvenir | o est un préfixe de politesse
 |||
 **ebi** | crevette |
 **ika** | calamar |
