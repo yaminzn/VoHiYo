@@ -18,9 +18,9 @@ Utiliser un mot d'interrogation en plus de **ka** en fin de phrase.
 Mot d'interrogation | Traduction | Exemple/Remarque
 --- | --- | ---
 **dare** | qui | Dare desu ka? (Qui est-ce?)
-**donata** | qui | **donata** est la version poli de **dare**
+**donata** | qui | **donata** est la version polie de **dare**
 **doko** | où | Doko desu ka? (Où est-ce?)
-**dochira** | où | **dochira** est la version poli de **doko**
+**dochira** | où | **dochira** est la version polie de **doko**
 **dore** | lequel/laquelle |
 **do̅** | comment |
 **ikura** | combien |
