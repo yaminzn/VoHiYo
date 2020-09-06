@@ -4,6 +4,8 @@ Mot | Traduction | Remarque
 --- | --- | ---
 **kino** | hier |
 **kuruma** | voiture |
+**okane** | argent | o est un préfixe de politesse, kane est argent mais personne ne le dit
+**omiyage** | souvenir | o est un préfixe de politesse
 |||
 **ebi** | crevette |
 **ika** | calamar |
